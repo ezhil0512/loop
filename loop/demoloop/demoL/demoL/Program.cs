@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace loop
+namespace demoL
 {
-    class Class1
+    class Program
     {
-        public static void print()
+        static void Main(string[] args)
         {
-            Console.WriteLine("hello world..");
         }
     }
 }
